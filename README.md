@@ -1,6 +1,6 @@
 Hello World! 👋
 
-<a href="https://www.linkedin.com/in/justine-dancel-8aa4b4182/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/justine-dancel-8aa4b4182/">
     LinkedIn
 </a>
 
